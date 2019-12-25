@@ -1,0 +1,19 @@
+{
+  "name": "nodejsapi",
+  "version": "1.0.0",
+  "description": "Nodejs and Mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuyenv/nodejs.git"
+  },
+  "author": "tuyenv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tuyenv/nodejs/issues"
+  },
+  "homepage": "https://github.com/tuyenv/nodejs#readme"
+}
